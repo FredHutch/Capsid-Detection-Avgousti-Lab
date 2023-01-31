@@ -13,4 +13,16 @@ REQUIREMENTS:
 
 -Image Processing ToolBox
 
+-Signal Processing ToolBox
+
+__*detectcapsidsEM.m*__ identifies capsids within a user-defined area and measures their distance from the boundary. It relies on bfmatlab, the bio-format package for MATLAB that can be freely downloaded at:
+
+https://www.openmicroscopy.org/bio-formats/downloads/
+
+__*measurechromatindensityEM.m*__ measures the 'width' of the dense (hetero-) chromatin abutting the nuclear membrane.
+
+__*drawCircle2.m*__ is a function used to draw circles and it is employed by the other scripts.
+
+
+
   
